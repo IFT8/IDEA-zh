@@ -1,2 +1,2 @@
-# IDEA-zh
-IDEA汉化
+替换安装目录下/lib/resources_en即可
+持续汉化中……
